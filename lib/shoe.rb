@@ -1,6 +1,7 @@
 # Make your shoe class here!
 def Shoe
 
-  def initialize(shoe)
-  end
+  attr_accessor
+  attr_reader
+
 end
